@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FirtViewController.swift
 //  SharonTest
 //
 //  Created by Sharon's Mac on 5/27/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FirstViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
