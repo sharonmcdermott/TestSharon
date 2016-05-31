@@ -12,6 +12,7 @@
 		80903C2B1CF8D1AA0042915A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80903C291CF8D1AA0042915A /* Main.storyboard */; };
 		80903C2D1CF8D1AA0042915A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80903C2C1CF8D1AA0042915A /* Assets.xcassets */; };
 		80903C301CF8D1AA0042915A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80903C2E1CF8D1AA0042915A /* LaunchScreen.storyboard */; };
+		80CA73131CFDE34600021A16 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CA73121CFDE34600021A16 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		80903C2C1CF8D1AA0042915A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80903C2F1CF8D1AA0042915A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80903C311CF8D1AA0042915A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80CA73121CFDE34600021A16 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				80903C251CF8D1AA0042915A /* AppDelegate.swift */,
 				80903C271CF8D1AA0042915A /* FirstViewController.swift */,
+				80CA73121CFDE34600021A16 /* SecondViewController.swift */,
 				80903C291CF8D1AA0042915A /* Main.storyboard */,
 				80903C2C1CF8D1AA0042915A /* Assets.xcassets */,
 				80903C2E1CF8D1AA0042915A /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80CA73131CFDE34600021A16 /* SecondViewController.swift in Sources */,
 				80903C281CF8D1AA0042915A /* FirstViewController.swift in Sources */,
 				80903C261CF8D1AA0042915A /* AppDelegate.swift in Sources */,
 			);
